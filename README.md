@@ -4,10 +4,10 @@
 - Section 2 - Carousel implementatoin with React and Typescript
   
 - Section 3
--- Separate elements into components
--- Browse multiple comics/images from the top level
--- If you chose to use Typescript, correctly type the code
--- Use state to toggle dark mode
+1. Separate elements into components
+2. Browse multiple comics/images from the top level
+3. If you chose to use Typescript, correctly type the code
+4.  Use state to toggle dark mode
 
 ## Skills
 React,Typescript,react-bootstrap,styled-components and css for styling
