@@ -1,12 +1,12 @@
 ## Features
 - Section 1 - Sorting algorithm that sorts strings based on the ASCII code of the third letter first, then second letter and then the first letter.
 
-  Solution to this was fairly simple.I knew how to find the ascii code and also sort the strings from my previous projects.
+  I found this task intresting.I knew how to find the ascii code and also sort the strings from my previous projects.
   
 - Section 2 - Carousel implementatoin with React and Typescript
   
   I found this intresting and i am fond on React and Typescript.So i chose this task from this section.
-  I had chosen picsum pictures from prev projects so intial data structure was clear to me.
+  I had chosen picsum pictures from prev projects so initial data structure was clear to me.
   I have used a combination react-bootstrap,css and styledComponents.
   
 
@@ -16,7 +16,7 @@
 3. If you chose to use Typescript, correctly type the code
 4.  Use state to toggle dark mode
 
-I had used dark/light theme switch in my previus project.
+I had used dark/light theme switch in my previous project.
 
 ## Skills
 React,Typescript,react-bootstrap,styled-components and css for styling
