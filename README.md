@@ -4,6 +4,9 @@
   Solution to this was fairly simple.I knew how to find the ascii code and also sort the strings from my previous projects.
   
 - Section 2 - Carousel implementatoin with React and Typescript
+  I found this intresting and i am fond on React and Typescript.So i chose this task from this section.
+  I had chosen picsum pictures from prev projects so intial data structure was clear to me.
+  I had used dark/light theme switch in my previus project.
   
 - Section 3
 1. Separate elements into components
