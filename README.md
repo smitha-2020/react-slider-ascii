@@ -16,7 +16,7 @@
 3. If you chose to use Typescript, correctly type the code
 4.  Use state to toggle dark mode
 
-I found this section intresting and obvious choice after chosing the task from sectoin2.
+I found this section intresting and obvious choice after chosing the task from section2.
 
 ## Skills
 React,Typescript,react-bootstrap,styled-components and css for styling
