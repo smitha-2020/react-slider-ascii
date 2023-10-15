@@ -9,4 +9,4 @@ React,Typescript,react-bootstrap,styled-components and css for styling
 - npm start
 
 ![alt text](https://github.com/smitha-2020/react-slider-ascii/blob/main/exoveTask.png)
-![alt text](https://github.com/smitha-2020/Nestjs-React-TypeORM/blob/main/piechart.png)
+![alt text](https://github.com/smitha-2020/react-slider-ascii/blob/main/exovetask2.png)
