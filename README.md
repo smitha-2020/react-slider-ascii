@@ -1,6 +1,7 @@
 ## Features
 - Section 1 - Sorting algorithm that sorts strings based on the ASCII code of the third letter first, then second letter and then the first letter.
-  *Solution to this was fairly simple.I knew how to find the ascii code and also sort the strings from my previous projects.
+
+  Solution to this was fairly simple.I knew how to find the ascii code and also sort the strings from my previous projects.
   
 - Section 2 - Carousel implementatoin with React and Typescript
   
