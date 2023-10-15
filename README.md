@@ -7,13 +7,16 @@
   
   I found this intresting and i am fond on React and Typescript.So i chose this task from this section.
   I had chosen picsum pictures from prev projects so intial data structure was clear to me.
-  I had used dark/light theme switch in my previus project.
+  I have used a combination react-bootstrap,css and styledComponents.
   
+
 - Section 3
 1. Separate elements into components
 2. Browse multiple comics/images from the top level
 3. If you chose to use Typescript, correctly type the code
 4.  Use state to toggle dark mode
+
+I had used dark/light theme switch in my previus project.
 
 ## Skills
 React,Typescript,react-bootstrap,styled-components and css for styling
