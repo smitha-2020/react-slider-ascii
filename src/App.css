@@ -1,0 +1,46 @@
+.nav-icon-display {
+  color: white;
+  display: none;
+  font-size: 20px;
+}
+.onHover:hover {
+  cursor: pointer;
+}
+.indicators {
+  display: flex;
+  position: absolute;
+  bottom: 1rem;
+}
+.indicator {
+  color: white;
+  height: 0.5rem;
+  width: 0.5rem;
+  border-radius: 100%;
+  border: none;
+  box-shadow: 0 0 10px #555;
+  margin: 0 0.5rem;
+  cursor: pointer;
+}
+.indicator-inactive {
+  color: gray;
+}
+.slide {
+  border-radius: 0.5rem;
+  box-shadow: 0px 0px 7px #666;
+  width: 100%;
+}
+.slide-hidden {
+  display: none;
+}
+.light {
+  background-color: hsl(0, 0%, 93%);
+}
+.dark {
+  background-color: hsl(0, 0%, 20%);
+}
+.active{
+  border: 3px solid hsl(0, 0%, 87%);
+}
+.custom-switch{
+  cursor: pointer;
+}
